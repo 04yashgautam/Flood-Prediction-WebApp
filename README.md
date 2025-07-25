@@ -8,8 +8,8 @@
 
 1. **Clone** the repo  
    ```bash
-   git clone https://github.com/04yashgautam/Flood-Prediction-with-User-Inputs.git
-   cd Flood-Prediction-with-User-Inputs
+   git clone https://github.com/04yashgautam/Flood-Prediction-WebApp.git
+   cd Flood-Prediction-WebApp
    ```
 2. **Setup** environment  
    ```bash
