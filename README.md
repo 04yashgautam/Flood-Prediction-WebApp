@@ -1,6 +1,6 @@
-# 🌊 Flood Prediction with User Inputs
+# 🌊 Flood Prediction WebApp
 
-**Flood-Prediction-with-User-Inputs** is an interactive Python application that predicts flood risk based on real‑time user inputs of hydrological and meteorological parameters. It blends deep learning models with a simple CLI/web interface for on‑the‑fly forecasting.
+**Flood-Prediction-WebApp** is an interactive Python application that predicts flood risk based on real‑time user inputs of hydrological and meteorological parameters. It blends deep learning models with a simple CLI/web interface for on‑the‑fly forecasting.
 
 ---
 
