@@ -1,7 +1,7 @@
 # 🌊 Flood Predictor
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![Flask](https://img.shields.io/badge/Flask-Web--App-lightgrey.svg)
+![Flask](https://img.shields.io/badge/Flask-lightgrey.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 **Flood-Prediction-WebApp** is an interactive Python application that predicts flood risk based on real-time user inputs of hydrological and meteorological parameters. It combines a trained **MobileNet-based deep learning model** with a simple **CLI** and **Flask web interface** for instant, on-the-fly predictions.
