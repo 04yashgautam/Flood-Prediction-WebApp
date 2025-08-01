@@ -10,11 +10,10 @@
 
 ## 📋 Table of Contents
 
-1. [🚀 Quick Start](#-quick-start)
-2. [🔍 Project Highlights](#-project-highlights)
-3. [⚙️ Configuration](#️-configuration)
-4. [📦 requirements.txt](#-requirementstxt)
-5. [📫 Contact](#-contact)
+1. 🚀[Quick Start](#-quick-start)
+2. 🔍[Project Highlights](#-project-highlights)
+3. 📦[requirements.txt](#-requirementstxt)
+4. 📫[Contact](#-contact)
 
 ---
 
